@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask-migrate
+ipython
+FLASK_APP==biblioteka.py
+flask-shell-ipython
